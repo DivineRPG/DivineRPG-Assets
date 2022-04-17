@@ -1,11 +1,20 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/official-divinerpg",
 	"1.16.5": {
+		"1.8.13": "Bug fixes",
+		"1.8.12": "Bug fixes",
+		"1.8.11": "Bug fixes",
 		"1.8.10": "Bug fixes",
-		"1.8.9": "Bug fixes",
+		"1.8.9": "Tweaked spawn rates, Bug fixes",
 		"1.8.8": "Bug fixes",
 		"1.8.7": "Bug fixes",
-		"1.8.6": "First non beta build"
+		"1.8.6": "added patchouli support, added loot to some natural chests, bug fixes",
+		"1.8.5": "Converted infusion table to JSON recipes to assist modpack devs, bug fixes",
+		"1.8.4": "Added wood door variants, many mob rebalances",
+		"1.8.3": "Added wood variants, changed angelic armour recipe",
+		"1.8.2": "Bug fixes",
+		"1.8.1": "QoL tweaks and bug fixes",
+		"1.8": "Initial port build, added twilight shickaxes and aequorea"
 	},
 	"1.12.2": {
 		"1.7.1": "Arcana generation change and miscellaneous fixes",
@@ -38,8 +47,8 @@
 		"1.4.0": "Ported to 1.7.10"
 	},
 	"promos": {
-		"1.16.5-latest": "1.8.6",
-		"1.16.5-recommended": "1.8.6",
+		"1.16.5-latest": "1.8.13",
+		"1.16.5-recommended": "1.8.13",
 		"1.12.2-latest": "1.7.1",
 		"1.12.2-recommended": "1.7.1",
 		"1.7.10-latest": "1.4.1.4",
