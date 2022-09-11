@@ -1,6 +1,7 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/official-divinerpg",
 	"1.16.5": {
+		"1.8.25": "Fixed Divine Arrows and Termasect, this is the final 1.16.5 build. all bugs will stay until 1.19.2. 1.19.2 is our main focus now",
 		"1.8.24": "Saguaro Worm fix",
 		"1.8.23": "Fixes",
 		"1.8.22": "Fixes",
@@ -58,8 +59,8 @@
 		"1.4.0": "Ported to 1.7.10"
 	},
 	"promos": {
-		"1.16.5-latest": "1.8.24",
-		"1.16.5-recommended": "1.8.24",
+		"1.16.5-latest": "1.8.25",
+		"1.16.5-recommended": "1.8.25",
 		"1.12.2-latest": "1.7.1",
 		"1.12.2-recommended": "1.7.1",
 		"1.7.10-latest": "1.4.1.4",
