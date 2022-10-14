@@ -1,6 +1,7 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/official-divinerpg",
 	"1.19.2": {
+		"1.9.3": "Emergency server patch",
 		"1.9.2": "Bug Fixes, lots of changes, addition of plant pots and a new arcana room",
 		"1.9.1": "Bug Fixes",
 		"1.9": "Major overhaul + 1.19.2 port"
@@ -66,8 +67,8 @@
 		"1.4.0": "Ported to 1.7.10"
 	},
 	"promos": {
-		"1.19.2-latest": "1.9.2",
-		"1.19.2-recommended": "1.9.2",
+		"1.19.2-latest": "1.9.3",
+		"1.19.2-recommended": "1.9.3",
 		"1.16.5-latest": "1.8.27",
 		"1.16.5-recommended": "1.8.27",
 		"1.12.2-latest": "1.7.1",
