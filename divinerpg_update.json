@@ -1,6 +1,7 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/official-divinerpg",
 	"1.19.2": {
+		"1.9.6.1": "First RELEASE quality build, lots of fixes and changes, added armor bundle and JEI support",
 		"1.9.6": "First RELEASE quality build, lots of fixes and changes, added armor bundle and JEI support",
 		"1.9.5": "Fixed ranged weapons",
 		"1.9.4": "Lots of fixes, additonal loot to vanilla chests",
@@ -70,8 +71,8 @@
 		"1.4.0": "Ported to 1.7.10"
 	},
 	"promos": {
-		"1.19.2-latest": "1.9.6",
-		"1.19.2-recommended": "1.9.6",
+		"1.19.2-latest": "1.9.6.1",
+		"1.19.2-recommended": "1.9.6.1",
 		"1.16.5-latest": "1.8.27",
 		"1.16.5-recommended": "1.8.27",
 		"1.12.2-latest": "1.7.1",
