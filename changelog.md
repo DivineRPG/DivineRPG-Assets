@@ -150,3 +150,29 @@
 
 **Fixes:**
 - Fixed tamable crash
+
+
+## 1.9.6.2
+
+**Additions**
+- Added Traveler's titles support - Pricerocks
+
+
+**Changes**
+- Entity models:
+    - Cave Crawler
+    - Razorback
+    - Skyre
+    - Desert Crawler
+    - Shark
+    - Bunny/Glinthop
+    - Angry Bunny/Angry Glinthop
+    - Glacon
+- Renamed bunny to glinthop and angry bunny to angry glinthop
+
+**Fixes**
+- Fixed torridite bricks and arcanium torch recipe
+- Fixed missing arcana traders spawn cages 
+- Fixed realmite ore spawnrate
+- Fixed leorna crash
+- Fixed mod chest crash when external storage was connected (hoppers and stuff) 
