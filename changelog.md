@@ -176,3 +176,38 @@
 - Fixed realmite ore spawnrate
 - Fixed leorna crash
 - Fixed mod chest crash when external storage was connected (hoppers and stuff) 
+
+## 1.9.6.3
+
+**Additions**
+- Added raw ore blocks
+- Added tools (terran axe, apalachia hoe, bedrock hoe, corrupted hoe, divine hoe, eden hoe, mortum hoe, rupee hoe, skythern hoe, terran hoe, wildwood hoe, terran pickaxe, terran shovel, corrupted shovel, terran shickaxe)
+
+**Changes**
+- Enchanted warrior model (declan)
+- Healing items behaviour (can heal other players and the item by right clicking players or monsters respectivley)
+- Merchants will only panic when hit otherwise they will not move now
+- Vethea will no longer spawn a portal, you need to trade the hunger for mortum blocks and use a dream flint to ignite it. (portal patterns: https://imgur.com/pQpD1cz) 
+- Made some items fire resistant (torridite block, torridite bricks, bedrock minibricks, torridite minibricks, bedrock chunk, molten shards, molten stone, torridite chunk, torridite ingot, torridite nugget, bedrock axe, inferno arrow, inferno bow, bedrock pickaxe, bedrock shovel, bedrock maul, bedrock sword, bedrock armour, inferno armour and torridite armour)
+- Inferno sword is now craftable via redstone ore alternatives
+- Buffed apalachia shickaxe
+- Nerfed hastreus
+
+**Fixes**
+- Fixed eucalyptus stairs hitbox
+- Fixed plants
+- Fixed glacide texture
+- Cyclops fix
+- Statue sound fix
+- Fire fix/Heat Trap Fix
+- Fixed traders sometimes selling air
+- Fixed some plants breaking when placed next to each other
+- Fixed halite, awakened halite, divine corrupted, glistening, demonized, tormented, arlemite and rupee armour effects
+- Fixed nightmare bed block drops
+- Fixed dreamwrecker pull
+- Fixed workshop carpet sound
+- Fixed leaves renders
+- Fixed shickaxe tilling farmland
+- Fixed shickaxe recipes
+- Fixed tomato
+- Fixed shield repair crash
