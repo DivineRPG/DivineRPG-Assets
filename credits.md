@@ -1,10 +1,10 @@
 ## Credits
 * XolovA - original creator
-* Tslat (Scimiguy) - current owner and coding assistant
+* Tslat (Scimiguy) - ex owner and coding assistant
 
 ### Main Team
 * Locomen_ - Developer
-* NicosaurusRex99 - Developer
+* NicosaurusRex99 - Owner/Developer
 * Velocityraptor - Developer
 
 ### Ex-Developers
