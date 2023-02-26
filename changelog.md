@@ -211,3 +211,52 @@
 - Fixed shickaxe recipes
 - Fixed tomato
 - Fixed shield repair crash
+
+## 1.9.6.4
+
+**Backports**
+- re-added "beloved" mage shooting sound
+- heard ai for lorga flight
+- added "regular" spider loot to divinerpg spiders
+- ported to 1.19.3
+- fury maul now craftable by all diamond ores
+- increased boss spawners generousity
+- neutral mobs now agro their fellow mob types when hurt
+- flying mob AI
+- caveclops now have better spawn conditions
+- buffed axe damage
+- madivel only spawn in darkness
+- nerfed serenade of health
+- slowed zoragon
+- legendary ender eye includes watching eyes now
+- teleporter fix
+- demon of darkness model
+- alicanto and grue aggression
+- kazrotic shot doesnt break blocks
+- skythern Fiend sound
+- ender scrounge crashing game
+- epiphite lightning behvaiour
+- fixed iceika dungeons clipping into void
+- fixed flaming swords not cooking meat
+- fixed eden chest harvest level
+- fixed glass drops
+- fixed fairy lights drops
+- fixed eden chest not working sometimes on first open and not loading contents
+- lots of item tags for more mod compatability (Lemon-Juiced)
+- zh_cn.json (usamion)
+- ja_jp.json (RyoTagami)
+- compost list
+- changed darven and karos lump texture
+- renamed bluefire to soulfire for some vanilla parity
+- tag based recipes for furnaces and blasting
+- rotated chest items to match vanilla
+- nerfed liopleurodon spawn rate
+- fixed fyracryx and kazrotic crash
+- fixed ore sounds
+- fixed demon furnace placement
+- fixed karos altar
+- fixed burning swords losing durability in creative
+- fixed aquamarine
+- fixed twilight spawn cages
+- fixed the armour using LivingHurtEvent
+- fixed karot model
