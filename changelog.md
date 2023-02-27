@@ -260,3 +260,11 @@
 - fixed twilight spawn cages
 - fixed the armour using LivingHurtEvent
 - fixed karot model
+
+## 1.9.6.5
+
+**Fixes**
+- Fixed leather tag issue
+
+**Misc**
+- Added ancient tomb loot table to JER compat
