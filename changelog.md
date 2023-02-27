@@ -268,3 +268,8 @@
 
 **Misc**
 - Added ancient tomb loot table to JER compat
+ 
+## 1.9.6.6
+
+**Fixes**
+- Fixed more tags
