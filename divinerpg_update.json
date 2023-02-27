@@ -4,6 +4,7 @@
 		"1.9.7": "Balance tweaks, Bug Fixes and some continuity tweaks"
 	},
 	"1.19.2": {
+		"1.9.6.5": "Fixed leather tag",
 		"1.9.6.4": "Backported many bug fixes",
 		"1.9.6.3": "Balance tweaks, Bug Fixes and some continuity tweaks",
 		"1.9.6.2": "Lots of model changes",
@@ -79,8 +80,8 @@
 	"promos": {
 		"1.19.3-latest": "1.9.7",
 		"1.19.3-recommended": "1.9.7",
-		"1.19.2-latest": "1.9.6.4",
-		"1.19.2-recommended": "1.9.6.4",
+		"1.19.2-latest": "1.9.6.5",
+		"1.19.2-recommended": "1.9.6.5",
 		"1.16.5-latest": "1.8.27",
 		"1.16.5-recommended": "1.8.27",
 		"1.12.2-latest": "1.7.1",
