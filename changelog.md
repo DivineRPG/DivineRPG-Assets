@@ -273,3 +273,11 @@
 
 **Fixes**
 - Fixed more tags
+
+## 1.9.6.7
+
+**Fixes**
+- Fixed advancement backgrounds
+
+**Additions**
+- Added zh_cn.json (usamion)
