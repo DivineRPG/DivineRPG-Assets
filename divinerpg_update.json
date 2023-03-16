@@ -1,5 +1,8 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/official-divinerpg",
+	"1.19.4": {
+		"1.10.0": "This port includes some new stuff from an upcoming update"
+	},
 	"1.19.3": {
 		"1.9.7": "Balance tweaks, Bug Fixes and some continuity tweaks"
 	},
@@ -80,6 +83,8 @@
 		"1.4.0": "Ported to 1.7.10"
 	},
 	"promos": {
+		"1.19.4-latest": "1.10.0",
+		"1.19.4-recommended": "1.10.0",
 		"1.19.3-latest": "1.9.7",
 		"1.19.3-recommended": "1.9.7",
 		"1.19.2-latest": "1.9.6.7",
