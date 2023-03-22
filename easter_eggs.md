@@ -41,3 +41,6 @@
 
 - [Formerly Netherite](https://divine-rpg.fandom.com/wiki/Torridite_Ingot)
 > Whilst not the most creative name Netherite was a thing in DivineRPG before vanilla, now its been renamed to Torridite
+
+- Pog Sun
+> This one is undiscovered, youll have to find it
