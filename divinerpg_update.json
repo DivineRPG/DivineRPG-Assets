@@ -9,6 +9,7 @@
 		"1.9.7": "Balance tweaks, Bug Fixes and some continuity tweaks"
 	},
 	"1.19.2": {
+		"1.9.6.8": "backported bug fixes",
 		"1.9.6.7": "Fixed advancement background/added zh_cn",
 		"1.9.6.6": "Fixed tags",
 		"1.9.6.5": "Fixed leather tag",
