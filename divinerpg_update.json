@@ -6,6 +6,7 @@
 		"1.10.0": "This port includes some new stuff from an upcoming update"
 	},
 	"1.19.3": {
+		"1.10.0.2": "Server crash fix",
 		"1.10.0.1": "Backported bug fixes",
 		"1.9.7": "Balance tweaks, Bug Fixes and some continuity tweaks"
 	},
@@ -89,8 +90,8 @@
 	"promos": {
 		"1.19.4-latest": "1.10.2",
 		"1.19.4-recommended": "1.10.2",
-		"1.19.3-latest": "1.10.0.1",
-		"1.19.3-recommended": "1.10.0.1",
+		"1.19.3-latest": "1.10.0.2",
+		"1.19.3-recommended": "1.10.0.2",
 		"1.19.2-latest": "1.9.6.7",
 		"1.19.2-recommended": "1.9.6.7",
 		"1.16.5-latest": "1.8.27",
