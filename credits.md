@@ -3,11 +3,11 @@
 * Tslat (Scimiguy) - coding assistant
 
 ### Main Team
-* Locomen_ - Developer
 * NicosaurusRex99 - Developer
 * Velocityraptor - Developer
 * Lemon_Juice - Developer
 * PegasDoggeAM - Developer
+* Declan (UKDeccy) - Asset Developer
 
 ### Ex-Developers
 * Aginsun
@@ -25,6 +25,7 @@
 * Vazkii
 * Wufflez (LiteWolf101) - Developer
 * Zachtoplasm - Texture artist
+* Locomen_ - Developer
 
 ### Translations
 * Adaptivity - Russian translations
@@ -45,7 +46,6 @@
 ### Special Thanks to
 * BlueEyes9 - A few models/textures
 * BossLetsPlays - Sound artist, maintenance developer, and former server owner
-* Declan (UKDeccy) - A few models/textures
 * Dizzlepop12 - A few models/textures
 * Insanity414all - Former wiki admin
 * Laorwick - Some recipes
