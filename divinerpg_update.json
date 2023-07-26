@@ -1,6 +1,7 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/official-divinerpg",
 	"1.20.1": {
+		"1.10.5": "Lots of bug fixes and some new content"
 		"1.10.4": "This port includes some new stuff from an upcoming update"
 	},
 	"1.20": {
