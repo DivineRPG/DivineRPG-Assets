@@ -44,3 +44,6 @@
 
 - Pog Sun
 > This one is undiscovered, youll have to find it
+
+- [bad idea right?](https://www.youtube.com/watch?v=Dj9qJsJTsjQ)
+> This advancement refers to Olivia Rodrigo's song bad idea right?
