@@ -1,6 +1,10 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/official-divinerpg",
 	"1.20.1": {
+		"1.10.7.3": "To see all 1.20 changes, check here: https://github.com/DivineRPG/DivineRPG-Assets/blob/main/changelogs/1.20.md",
+		"1.10.7.2": "To see all 1.20 changes, check here: https://github.com/DivineRPG/DivineRPG-Assets/blob/main/changelogs/1.20.md",
+		"1.10.7.1": "To see all 1.20 changes, check here: https://github.com/DivineRPG/DivineRPG-Assets/blob/main/changelogs/1.20.md",
+		"1.10.7": "To see all 1.20 changes, check here: https://github.com/DivineRPG/DivineRPG-Assets/blob/main/changelogs/1.20.md",
 		"1.10.6.1": "To see all 1.20 changes, check here: https://github.com/DivineRPG/DivineRPG-Assets/blob/main/changelogs/1.20.md",
 		"1.10.6": "To see all 1.20 changes, check here: https://github.com/DivineRPG/DivineRPG-Assets/blob/main/changelogs/1.20.md",
 		"1.10.5": "To see all 1.20 changes, check here: https://github.com/DivineRPG/DivineRPG-Assets/blob/main/changelogs/1.20.md",
@@ -99,8 +103,8 @@
 		"1.4.0": "Ported to 1.7.10"
 	},
 	"promos": {
-		"1.20.1-latest": "1.10.6.1",
-		"1.20.1-recommended": "1.10.6.1",
+		"1.20.1-latest": "1.10.7.3",
+		"1.20.1-recommended": "1.10.7.3",
 		"1.20-latest": "1.10.4",
 		"1.20-recommended": "1.10.4",
 		"1.19.4-latest": "1.10.3",
