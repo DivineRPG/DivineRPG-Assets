@@ -1,6 +1,6 @@
 # Easter Eggs
 
-- [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu)
+- [~~Pink Elephant~~ - Removed](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu)
 > There is a large painting with a pink elephant on it.
 
 - [What Makes you beautiful](https://www.youtube.com/watch?v=QJO3ROT-A4E)
