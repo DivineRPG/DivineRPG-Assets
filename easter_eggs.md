@@ -37,7 +37,7 @@
 > This ranged weapon is a reference to the classic movie
 
 - [Story of a lonely guy](https://youtu.be/wWhLfkTsINI)
-> This advancement refers to blink-182's song Story of a lonely guy
+> This advancement refers to blink-182's song Story of a lonely guy, trade with diamond dave to get this advancement 
 
 - [Formerly Netherite](https://divine-rpg.fandom.com/wiki/Torridite_Ingot)
 > Whilst not the most creative name Netherite was a thing in DivineRPG before vanilla, now its been renamed to Torridite
@@ -46,4 +46,4 @@
 > This one is undiscovered, youll have to find it
 
 - [bad idea right?](https://www.youtube.com/watch?v=Dj9qJsJTsjQ)
-> This advancement refers to Olivia Rodrigo's song bad idea right?
+> This advancement refers to Olivia Rodrigo's song bad idea right? get it by visiting an ancient tomb
