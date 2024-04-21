@@ -3,11 +3,11 @@
 * Tslat (Scimiguy) - coding assistant
 
 ### Main Team
-* NicosaurusRex99 - Developer
-* Velocityraptor - Developer
+* Velocityraptor - Lead Developer
 * Lemon_Juice - Developer
 * PegasDoggeAM - Developer
-* Declan (UKDeccy) - Asset Developer
+* Nicusha - Developer
+* Declan - Asset Developer
 
 ### Ex-Developers
 * Aginsun
@@ -42,6 +42,10 @@
 * THEVOLCO - German translations
 * TikenTVC - Portuguese translations
 * Zeedif - Spanish translations
+
+### Music
+* "Snowflakes after Blizzard" by Velocityraptor
+* "Iceika Music" by Wufflez
 
 ### Special Thanks to
 * BlueEyes9 - A few models/textures
