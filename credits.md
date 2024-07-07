@@ -8,6 +8,7 @@
 * PegasDoggeAM - Developer
 * Nicusha - Developer
 * Declan - Asset Developer
+* 3DA - Music Artist
 
 ### Ex-Developers
 * Aginsun
@@ -46,6 +47,8 @@
 ### Music
 * "Snowflakes after Blizzard" by Velocityraptor
 * "Iceika Music" by Wufflez
+* "Cup of Tea" by 3DA
+* "Frozen Dispersion" by 3DA
 
 ### Special Thanks to
 * BlueEyes9 - A few models/textures
