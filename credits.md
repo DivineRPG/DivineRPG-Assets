@@ -9,6 +9,7 @@
 * Nicusha - Developer
 * Declan - Asset Developer
 * 3DA - Music Artist
+* charleadev - Legacy Support
 
 ### Ex-Developers
 * Aginsun
