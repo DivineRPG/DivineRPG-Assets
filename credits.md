@@ -50,6 +50,10 @@
 * "Iceika Music" by Wufflez
 * "Cup of Tea" by 3DA
 * "Frozen Dispersion" by 3DA
+* "Crystal Tears" by 3DA
+* "Isolation" by 3DA
+* "Destiny" by 3DA (Music Disc)
+* "Red Stains on the bluest Snow" by 3DA (Music Disc)
 
 ### Special Thanks to
 * BlueEyes9 - A few models/textures
