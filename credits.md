@@ -3,69 +3,82 @@
 * Tslat (Scimiguy) - coding assistant
 
 ### Main Team
-* Velocityraptor - Lead Developer
-* Lemon_Juice - Developer
-* PegasDoggeAM - Developer
-* Nicusha - Developer
-* Declan - Asset Developer
-* 3DA - Music Artist
-* charleadev - Legacy Support
+* Velocityraptor - lead developer
+* Lemon_Juice - developer
+* Nicusha - developer
+* PegasDoggeAM - developer, texture artist
+* Declan - asset developer, texture artist
+* 3DA - music artist
+* charleadev - legacy support
 
 ### Ex-Developers
 * Aginsun
-* AstralScourge - Developer
+* AstralScourge - developer
 * Blued00r
-* Dash - Developer
+* Dash - developer
 * Eternaldoom
 * Hologuardian
-* krwminer - Lead Developer
+* krwminer - lead developer
+* Locomen_ - developer
 * Mazetar
 * RadioactiveStud
+* Ringu - texture artist
 * Sheenrox82
-* TLHPoE
 * The_SlayerMC
+* TLHPoE
 * Vazkii
-* Wufflez (LiteWolf101) - Developer
-* Zachtoplasm - Texture artist
-* Locomen_ - Developer
+* Wufflez (LiteWolf101) - developer
+* Zachtoplasm - texture artist
 
 ### Translations
-* Adaptivity - Russian translations
-* AlaanRS - Spanish translations
-* Dash - Russian translations
-* Davoleo - Italian translations
-* Fewizz - Russian translations
-* FrozenYT - Russian translations
-* Imbarainbow - Simplified Chinese translations
-* Kellixon - Russian translations
-* Locomen - Russian translations
-* MCUmbrella - Simplified Chinese translations
-* ShadowOfStrelok - Russian translations
-* THEVOLCO - German translations
-* TikenTVC - Portuguese translations
-* Zeedif - Spanish translations
+Russian:
+* Adaptivity
+* Dash
+* Fewizz
+* FrozenYT
+* Kellixon
+* Locomen_
+* PegasDoggeAM
+* ShadowOfStrelok
+* TheHamester
+
+Simplified Chinese:
+* Imbarainbow
+* MCUmbrella
+* Usamion
+
+Spanish:
+* AlaanRS
+* Zeedif
+
+Other languages:
+* Davoleo - Italian
+* Kimchi112233 - Korean
+* RyoTagami - Japanese
+* THEVOLCO - German
+* TikenTVC - Portuguese
 
 ### Music
-* "Snowflakes after Blizzard" by Velocityraptor
-* "Iceika Music" by Wufflez
 * "Cup of Tea" by 3DA
-* "Frozen Dispersion" by 3DA
 * "Crystal Tears" by 3DA
-* "Isolation" by 3DA
 * "Destiny" by 3DA (Music Disc)
-* "Red Stains on the bluest Snow" by 3DA (Music Disc)
+* "Frozen Dispersion" by 3DA
+* "Iceika Music" by Wufflez
+* "Isolation" by 3DA
+* "Red Stains on the Bluest Snow" by 3DA (Music Disc)
+* "Snowflakes After Blizzard" by Velocityraptor
 
-### Special Thanks to
-* BlueEyes9 - A few models/textures
-* BossLetsPlays - Sound artist, maintenance developer, and former server owner
-* Dizzlepop12 - A few models/textures
-* Insanity414all - Former wiki admin
-* Laorwick - Some recipes
-* Sactage - Former server owner and maintainer
+### Special Thanks
+* BlueEyes9 - a few models/textures
+* BossLetsPlays - sound artist, maintenance developer, and former server owner
+* Dizzlepop12 - a few models/textures
+* Insanity414all - former wiki admin
+* Laorwick - some recipes
+* Sactage - former server owner and maintainer
 
 ### Other Credits
-* Majorsir - for the name of the mod.
-* Reika - for ore textures.
-* Terraria - for some resources. (removed in 1.12.2)
+* Majorsir - for the name of the mod
+* Reika - for ore textures (were replaced in 1.19.2)
+* Terraria - for some resources (removed in 1.12.2 except for sounds)
 * Vattic - for some block textures, featured in a version of the faithful32 pack (removed in 1.12.2)
-* XL biomes - for tree style. (removed in 1.12.2)
+* XL biomes - for tree style (removed in 1.12.2)
