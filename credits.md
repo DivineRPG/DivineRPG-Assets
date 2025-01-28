@@ -31,6 +31,10 @@
 * Zachtoplasm - texture artist
 
 ### Translations
+Korean:
+* Kimchi112233
+* Mihile
+
 Russian:
 * Adaptivity
 * Dash
@@ -53,12 +57,14 @@ Spanish:
 
 Other languages:
 * Davoleo - Italian
-* Kimchi112233 - Korean
+* Mazdallier - French
 * RyoTagami - Japanese
 * THEVOLCO - German
 * TikenTVC - Portuguese
+* Unknownkfa - Traditional Chinese (Taiwan)
 
 ### Music
+* "Caved Core" by Velocityraptor
 * "Cup of Tea" by 3DA
 * "Crystal Tears" by 3DA
 * "Destiny" by 3DA (Music Disc)
