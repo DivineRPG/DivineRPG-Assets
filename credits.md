@@ -73,7 +73,6 @@ Other languages:
 * "Isolation" by 3DA
 * "Red Stains on the Bluest Snow" by 3DA (Music Disc)
 * "Snowflakes After Blizzard" by Velocityraptor
-* "Caved Core" by Velocityraptor
 
 ### Special Thanks
 * BlueEyes9 - a few models/textures
