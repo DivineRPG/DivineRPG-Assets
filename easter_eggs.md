@@ -47,3 +47,6 @@
 
 - [bad idea right?](https://www.youtube.com/watch?v=Dj9qJsJTsjQ)
 > This advancement refers to Olivia Rodrigo's song bad idea right? get it by visiting an ancient tomb
+
+- [90 Seconds To Midnight](https://www.youtube.com/watch?v=oE8eUXseXIQ)
+> This advancement refers to Hot Milk's song 90 seconds to midnight. get it by freezing a clock to enter mortum
