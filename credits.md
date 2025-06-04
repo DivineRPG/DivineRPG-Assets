@@ -74,6 +74,10 @@ Other languages:
 * "Red Stains on the Bluest Snow" by 3DA (Music Disc)
 * "Snowflakes After Blizzard" by Velocityraptor
 
+### Additional Sound Designers
+* Silly Goose (cave crawler)
+* BruhSound (arid warrior, cyclops, deathcryx, liopleurodon)
+
 ### Special Thanks
 * BlueEyes9 - a few models/textures
 * BossLetsPlays - sound artist, maintenance developer, and former server owner
