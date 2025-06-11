@@ -50,3 +50,6 @@
 
 - [90 Seconds To Midnight](https://www.youtube.com/watch?v=oE8eUXseXIQ)
 > This advancement refers to Hot Milk's song 90 seconds to midnight. get it by freezing a clock to enter mortum
+
+- [Hard Times](https://youtu.be/AEB6ibtdPZc)
+> Weak cori? Gonna laugh when you cry
