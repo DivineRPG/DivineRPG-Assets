@@ -54,6 +54,11 @@
 - [Hard Times](https://youtu.be/AEB6ibtdPZc)
 > Weak cori? Gonna laugh when you cry
 
-
 - [Pain in the Bar](https://www.youtube.com/watch?v=5Oj5lr_I0MQ)
 > This advancement compares the Hellstone Ingot to the Painbot introduced in this C&H episode
+
+- [Decode](https://youtu.be/RvnkAtWcKYg)
+> How did we get here?
+
+- [Thick of it](https://youtu.be/At8v_Yc044Y)
+> From the screen to the ring, to the pеn, to the king
