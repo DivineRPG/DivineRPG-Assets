@@ -65,6 +65,7 @@ Other languages:
 
 ### Music
 * "Caved Core" by Velocityraptor
+* "Cold Waters" by 3DA
 * "Cup of Tea" by 3DA
 * "Crystal Tears" by 3DA
 * "Destiny" by 3DA (Music Disc)
@@ -92,3 +93,4 @@ Other languages:
 * Terraria - for some resources (removed in 1.12.2 except for sounds)
 * Vattic - for some block textures, featured in a version of the faithful32 pack (removed in 1.12.2)
 * XL biomes - for tree style (removed in 1.12.2)
+
