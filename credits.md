@@ -4,7 +4,6 @@
 
 ### Main Team
 * Velocityraptor - lead developer
-* Lemon_Juice - developer
 * Nicusha - developer
 * PegasDoggeAM - developer, texture artist
 * Declan - asset developer, texture artist
@@ -13,13 +12,14 @@
 
 ### Ex-Developers
 * Aginsun
-* AstralScourge - developer
+* AstralScourge
 * Blued00r
-* Dash - developer
+* Dash
 * Eternaldoom
 * Hologuardian
 * krwminer - lead developer
-* Locomen_ - developer
+* Lemon_Juice
+* Locomen_
 * Mazetar
 * RadioactiveStud
 * Ringu - texture artist
@@ -27,7 +27,7 @@
 * The_SlayerMC
 * TLHPoE
 * Vazkii
-* Wufflez (LiteWolf101) - developer
+* Wufflez (LiteWolf101)
 * Zachtoplasm - texture artist
 
 ### Translations
@@ -80,11 +80,13 @@ Other languages:
 * BruhSound (arid warrior, cyclops, deathcryx, liopleurodon)
 
 ### Special Thanks
+* Animer - some textures
 * BlueEyes9 - a few models/textures
 * BossLetsPlays - sound artist, maintenance developer, and former server owner
 * Dizzlepop12 - a few models/textures
 * Insanity414all - former wiki admin
 * Laorwick - some recipes
+* Luca88casinò - some models/textures
 * Sactage - former server owner and maintainer
 
 ### Other Credits
@@ -93,4 +95,5 @@ Other languages:
 * Terraria - for some resources (removed in 1.12.2 except for sounds)
 * Vattic - for some block textures, featured in a version of the faithful32 pack (removed in 1.12.2)
 * XL biomes - for tree style (removed in 1.12.2)
+
 
