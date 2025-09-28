@@ -80,7 +80,7 @@ Other languages:
 * BruhSound (arid warrior, cyclops, deathcryx, liopleurodon)
 
 ### Special Thanks
-* Animer - some textures & bug finding
+* Anim9r - some textures & bug finding
 * BlueEyes9 - a few models/textures
 * BossLetsPlays - sound artist, maintenance developer, and former server owner
 * Dizzlepop12 - a few models/textures
@@ -95,6 +95,7 @@ Other languages:
 * Terraria - for some resources (removed in 1.12.2 except for sounds)
 * Vattic - for some block textures, featured in a version of the faithful32 pack (removed in 1.12.2)
 * XL biomes - for tree style (removed in 1.12.2)
+
 
 
 
