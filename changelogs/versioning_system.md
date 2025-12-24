@@ -67,15 +67,18 @@ Minecraft 1.20.1:
 - Beta    1.10.6   -- Beta 1.12.2
 - Beta    1.10.5   -- Beta 1.12.1
 - Beta    1.10.4   -- Beta 1.12 (maybe 1.11 or even 1.10)
+
 Minecraft 1.19.4:
 - Beta    1.10.3   -- Beta 1.11.2
 - Beta    1.10.2   -- Beta 1.11.1
 - Beta    1.10.1   -- Beta 1.11.0.1
 - Beta    1.10.0   -- Beta 1.11 (maybe 1.10 or even 1.9)
+
 Minecraft 1.19.3:
 - Beta    1.10.0.2
 - Beta    1.10.0.1
 - Beta    1.9.7    -- Beta 1.10 (maybe 1.9 or even 1.8)
+
 Minecraft 1.19.2:
 - Beta    1.9.6.11 -- Beta 1.9.5.8
 - Beta    1.9.6.10 -- Beta 1.9.5.7
@@ -95,6 +98,7 @@ Minecraft 1.19.2:
 - Beta    1.9.2
 - Beta    1.9.1
 - Beta    1.9      -- (maybe 1.8 or even 1.7)
+
 Minecraft 1.16.5:
 - Release 1.8.27   -- Beta 1.8.5.21
 - Beta    1.8.26   -- Beta 1.8.5.20
@@ -124,6 +128,7 @@ Minecraft 1.16.5:
 - Beta    1.8.2
 - Beta    1.8.1
 - Beta    1.8      -- (maybe 1.7 or even 1.6)
+
 Minecraft 1.12.2 - classic versions:
 - Release 1.7.1
 - Release 1.7      -- (maybe 1.6.7 or even 1.5.10... should check updating from 1.6.4.1)
@@ -143,6 +148,7 @@ Minecraft 1.12.2 - classic versions:
 - Beta 1.12.2.0.21b-- Beta 1.5.0.22
 - Beta 1.12.2.0.21 -- Beta 1.5.0.21
 - Beta   1.12.2.0  -- Beta 1.5
+
 Minecraft 1.7.10 - legacy versions:
 - Release 1.4.2.3
 - Release 1.4.2.1  -- Release 1.4.2.2
@@ -150,13 +156,17 @@ Minecraft 1.7.10 - legacy versions:
 - Release 1.4.1.5  -- Release 1.4.2
 - Beta    1.4.1.4
 - Release 1.4.0.5
+
 Minecraft 1.4.7 - retro versions:
 - Release 1.3.0.4
+
 Minecraft 1.4.5:
 - v1.1             -- Release 1.2
+
 Minecraft 1.4.2:
 - 1.1.6            -- 1.1.1
 - 1.1.5            -- 1.1
+
 Minecraft 1.3.2:
 - 1.1.4            -- 1.0.4
 - 1.1.3            -- 1.0.3
