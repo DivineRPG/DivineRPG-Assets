@@ -44,7 +44,7 @@ If an alpha release is not compatible with old worlds, it does not require a ver
 Here is a list of old versions released before Dec 24th 2025 with "-- Xxxx x.x.x.x", when they would be different, had they used the new system:
 ("I will probably update and improve this at some point" - velocityraptor)
 
-Minecraft 1.20.1:
+Minecraft 1.21.1:
 - Release 1.10.9.3 -- Release 1.12.10.1
 - Release 1.10.9.2 -- Release 1.12.10
 - Release 1.10.9.1 -- Release 1.12.9.1
@@ -56,6 +56,8 @@ Minecraft 1.20.1:
 - Beta    1.10.8.2 -- Beta 1.12.6.2
 - Beta    1.10.8.1 -- Beta 1.12.6.1
 - Beta    1.10.8   -- Beta 1.12.6
+
+Minecraft 1.20.1
 - Release 1.10.7.6 -- Release 1.12.5.2
 - Beta    1.10.7.5 -- Beta 1.12.5.1
 - Beta    1.10.7.4 -- Beta 1.12.5
