@@ -6,31 +6,31 @@ A version is released as **Alpha**, **Beta** or **Release**, can have a **Name**
 of which the first segment contains the highest order number and the last the lowest order.
 Whenever a higher order number changes, it sets all trailing numbers to zero.
 Trailing zeroes are left out, so for example 1.4.0.0 would be trimmed to **1.4**
-
+   
 
 **The first number defines the iteration**
 
 With the first release it is set to **1** and only changes if the mod gets a complete rewrite and reimagination or gets a release for a different game than Minecraft.
 Such a scenario is not likely to happen and thus the number will stay as **1** for the forseeable future.
-
+   
 
 **The second number defines a functional version set**
 
 An update between versions with the same first and second number is meant to be simply executed by swapping out the file of the old update with the new one.
 Whenever further action is required to update, like changing the minecraft version or requiring a new world to be created, the second version number changes.
-
+   
 
 **The third number describes a content release**
 
 A change in the third version number is usually accompanied by a name similar to "*The --- Update*".
 Whenever new content gets added or the new version contains some substantial changes, this number should change.
-
+   
 
 **The fourth number is for fixes and minor changes**
 
 This segment is for hotfixes and new releases that only contain minor tweaks and changes.
 Such updates do not require a name.
-
+   
 
 A version is released as **Alpha**, if it is missing some essential function and is deemed as "**not working**".
 If an alpha release is not compatible with old worlds, it does not require a version number change of second order.
@@ -38,7 +38,7 @@ If an alpha release is not compatible with old worlds, it does not require a ver
 **Beta** is for versions interpreted as "**working, but not complete**"
 
 **Release** is for "**complete**" versions.
-
+   
 
 
 Here is a list of old versions released before Dec 24th 2025 with "-- Xxxx x.x.x.x", when they would be different, had they used the new system:
@@ -152,12 +152,21 @@ Minecraft 1.12.2 - classic versions:
 - Beta   1.12.2.0  -- Beta 1.5
 
 Minecraft 1.7.10 - legacy versions:
-- Release 1.4.2.3
-- Release 1.4.2.1  -- Release 1.4.2.2
-- Release 1.4.2    -- Release 1.4.2.1
-- Release 1.4.1.5  -- Release 1.4.2
-- Beta    1.4.1.4
+- Release 1.4.2.3  -- Release 1.4.3.3
+- Release 1.4.2.1  -- Release 1.4.3.2
+- Release 1.4.2    -- Release 1.4.3.1 (config options not considered new content)
+- Release 1.4.1.5  -- Release 1.4.3 (frozen charge added)
+- Release 1.4.1.4  -- Release 1.4.2.3
+- Release 1.4.1.3  -- Release 1.4.2.2
+- Release 1.4.1.2  -- Release 1.4.2.1
+- Release 1.4.1.1  -- Release 1.4.2 (frozen planks etc. are considered new content)
+- Release 1.4.1
 - Release 1.4.0.5
+- Release 1.4.0.4
+- Release 1.4.0.3
+- Release 1.4.0.2
+- Beta    1.4.0.1
+- Release 1.4.0     -- Release 1.4 (I do not have much info on what was going on pre 1.4.0... if anyone has info and can help, please contact me - velocityraptor)
 
 Minecraft 1.4.7 - retro versions:
 - Release 1.3.0.4
