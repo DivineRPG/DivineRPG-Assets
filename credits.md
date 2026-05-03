@@ -57,6 +57,7 @@ Spanish:
 
 Other languages:
 * Davoleo - Italian
+* Emir154 - Ukrainian
 * Mazdallier - French
 * RyoTagami - Japanese
 * THEVOLCO - German
