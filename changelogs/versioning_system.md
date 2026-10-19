@@ -45,6 +45,8 @@ Here is a list of old versions released before Dec 24th 2025 with "-- Xxxx x.x.x
 ("I will probably update and improve this at some point" - velocityraptor)
 
 Minecraft 1.21.1:
+- Release 1.10.10.1 -- Release 1.13.5.1
+- Release 1.10.10 -- Release 1.13.5
 - Release 1.10.9.3 -- Release 1.13.4.1
 - Release 1.10.9.2 -- Release 1.13.4
 - Release 1.10.9.1 -- Release 1.13.3.1
