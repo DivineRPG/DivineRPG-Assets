@@ -2,127 +2,127 @@
 
 ### This is a list of all the features DivineRPG implemented **FIRST** and where Mojang definitely just copied our homework. It is sorted from definitely the same feature, to absurdly far-fetched. Lemme know if I missed any.
 
-* **Netherite**
+- **Netherite**
 -- after 1.16 "The Nether update", the original Netherite had to be renamed to Torridite to minimize confusion. Also Red Nether Bricks are just Torridite Bricks.
 
-* **Soul Fire**
+- **Soul Fire**
 -- blue fire and soul energy are old concepts in DivineRPG.
 
-* **Custom Spawnegg Textures**
+- **Custom Spawnegg Textures**
 -- DivineRPG introduced mob-specific spawnegg textures in the 1.16.5 port.
 
-* **Stained Glass & Colored Bundles**
+- **Stained Glass & Colored Bundles**
 -- having different color variants of blocks and items is nothing new to DivineRPG. For now, Mojang have only copied these colorful ideas for stained glass and colored bundles from colored armor pouches.
 
-* **Stray, Frostbite, Frozen Caves, Icicles, Frozen Bricks & Snow Bricks.**
+- **Stray, Frostbite, Frozen Caves, Icicles, Frozen Bricks & Snow Bricks.**
 -- Strays and Frostbites are just Frozen Archers. They should name 26.4 "The iceika update". (We also had a mob concept with the name Frostbite, but it did not get added, so idk if that one counts)
 
-* **The Sift & Rifts**
+- **The Sift & Rifts**
 -- a combination of Eden & Wildwood. Rifts are also a Twilight Dimension thing since 1.21.
 
-* **Pale Garden & The Creeking**
+- **Pale Garden & The Creeking**
 -- Skythern & Soul Fiend, but in the Overworld.
 
-* **Storage Pots**
+- **Storage Pots**
 -- DivineRPG Crates worked the same way. To get rid of duplicate functionality, their behavior got changed after the Pots were updated in Minecraft.
 
-* **Wildfire**
+- **Wildfire**
 -- A combination of the actual Wildfire and the Scorcher
 
-* **Furnace, Moss & Wolf Variants**
+- **Furnace, Moss & Wolf Variants**
 -- making variants of things is very DivineRPG fashion. We made variants of a lot of things, including Furnaces, Moss and Wolves.
 
-* **Hoglin**
+- **Hoglin**
 -- Hell Pig
 
-* **The Sniffer**
+- **The Sniffer**
 -- The Snapper
 
-* H**usk**
+- H**usk**
 -- here the mob name is the same, but the mob is completely different.
 
-* **Copper Grate**
+- **Copper Grate**
 -- Cut Oxdrite
 
-* **Crying Obsidian**
+- **Crying Obsidian**
 -- Vane Blocks
 
-* **Smithing Templates & Smithing Table**
+- **Smithing Templates & Smithing Table**
 -- those are Vethean Infusion Templates. And the Smithing Table is the Infusion Table.
 
-* **Magma Block**
+- **Magma Block**
 -- Heat Trap or Hot Spike Block
 
-* **Rascall**
+- **Rascall**
 -- Diamond Dave & The Miners
 
-* **Phantom**
+- **Phantom**
 -- The Ayeraco
 
-* **Sea Lantern**
+- **Sea Lantern**
 -- Aqua Lamp (also the education edition underwater torch is the aqua torch)
 
-* **Mangrove Trees**
+- **Mangrove Trees**
 -- Wildwood Trees
 
-* **Torchflower & Pitcher Plant**
+- **Torchflower & Pitcher Plant**
 -- the Shimmer & Globebrush plants
 
-* **Elytra**
+- **Elytra**
 -- Angelic Armor
 
-* **Wind Charge**
+- **Wind Charge**
 -- Snowstorm Bow
 
-* **Mace**
+- **Mace**
 -- Mauls
 
-* **Trident**
+- **Trident**
 -- Aquatic Trident
 
-* **Light Block**
+- **Light Block**
 -- Lamona & The Orb of Light
 
-* **Hard to mine Structures**
+- **Hard to mine Structures**
 
-* **Slime Block Launch Mechanic**
+- **Slime Block Launch Mechanic**
 -- Elevantium
 
-* **Crabs**
+- **Crabs**
 
-* **Rabbit**
+- **Rabbit**
 -- Eden Bunny. Rabbit Stew is the Chicken Dinner.
 
-* **Goat Horn & Raid initiation**
+- **Goat Horn & Raid initiation**
 -- Horde Horn & summoning the Ayeraco
 
-* **Trial Chamber Keys**
+- **Trial Chamber Keys**
 -- Arcana dungeon Keys
 
-* **Bees and Beehives**
+- **Bees and Beehives**
 -- The Hive Queen resides in Vethea
 
-* **Tuff Golem**
+- **Tuff Golem**
 -- Stone Golem
 
-* **Endermite**
+- **Endermite**
 -- Ender Watcher but smaller
 
-* **Polar Bear & Brown Panda**
+- **Polar Bear & Brown Panda**
 -- White Grizzle and Brown Grizzle
 
-* **Horse**
+- **Horse**
 -- Cadillion
 
-* **Dolphin**
+- **Dolphin**
 -- Shark
 
-* **Strider**
+- **Strider**
 -- Hell Spider
 
-* **Vex**
+- **Vex**
 -- Alicanto
 
-* **Shroomlight, Ochre, Verdant & Pearlescent Froglight**
+- **Shroomlight, Ochre, Verdant & Pearlescent Froglight**
 -- Lava, Divine, Arlemite & Draken Lamp
 
