@@ -6,9 +6,10 @@
 * Velocityraptor - lead developer
 * Nicusha - developer
 * PegasDoggeAM - developer, texture artist
-* Declan - asset developer, texture artist
+* Declan - asset developer (model & texture artist)
+* Luca88casinò - asset developer (model & texture artist)
 * 3DA - music artist
-* charleadev - legacy support
+* charleadev - legacy support (1.7.10)
 
 ### Ex-Developers
 * Aginsun
@@ -77,18 +78,20 @@ Other languages:
 * "Snowflakes After Blizzard" by Velocityraptor
 
 ### Additional Sound Designers
-* Silly Goose (cave crawler)
-* BruhSound (arid warrior, cyclops, deathcryx, liopleurodon)
+* Silly Goose (Cave Crawler)
+* BruhSound (Arid Warrior, Cyclops, Deathcryx, Liopleurodon)
 
 ### Special Thanks
+* AliceGingertail - coding assistance
 * Anim9r - some textures & bug finding
 * BlueEyes9 - a few models/textures
 * BossLetsPlays - sound artist, maintenance developer, and former server owner
 * Dizzlepop12 - a few models/textures
+* Frost - some models and animations
 * Insanity414all - former wiki admin
 * Laorwick - some recipes
-* Luca88casinò - some models/textures
 * Sactage - former server owner and maintainer
+* TigerdoesFunnies - some model concepts and other ideas
 
 ### Other Credits
 * Majorsir - for the name of the mod
@@ -96,7 +99,3 @@ Other languages:
 * Terraria - for some resources (removed in 1.12.2 except for sounds)
 * Vattic - for some block textures, featured in a version of the faithful32 pack (removed in 1.12.2)
 * XL biomes - for tree style (removed in 1.12.2)
-
-
-
-
