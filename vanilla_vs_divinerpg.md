@@ -26,6 +26,9 @@
 - **Storage Pots**
 -- DivineRPG Crates worked the same way. To get rid of duplicate functionality, their behavior got changed after the Pots were updated in Minecraft.
 
+- **Throwing Disc**
+-- Vethean Discs, but accessible in the overworld.
+
 - **Wildfire**
 -- A combination of the actual Wildfire and the Scorcher
 
