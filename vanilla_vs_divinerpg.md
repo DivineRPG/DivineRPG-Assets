@@ -47,6 +47,9 @@
 - **Copper Grate**
 -- Cut Oxdrite
 
+- **Copper Torch**
+-- Eden Torch
+
 - **Crying Obsidian**
 -- Vane Blocks
 
